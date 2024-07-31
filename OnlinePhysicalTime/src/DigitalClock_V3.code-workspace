@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Arduino/DigitalClock_V3"
+		},
+		{
+			"name": "OnlinePhysicalTime",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
